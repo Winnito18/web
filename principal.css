@@ -1,0 +1,73 @@
+
+body{ 
+    background-image: url(/Images/Fondo.jpg);
+}
+.primero h1 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 50px;
+}
+.primero p7 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 25px;
+}
+.textos2 p1 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.textos2 p2 {
+    color: #F9FDF7;
+    font-size: 25px;
+}
+.textos2 p3 {
+    color: #F9FDF7;
+    font-size: 25px;
+}
+.textos2 p4 {
+    color: #F9FDF7;
+    font-size: 25px;
+}
+.textos2 p5 {
+    color: #F9FDF7;
+    font-size: 25px;
+}
+.textos2 p6 {
+    color:#F9FDF7;
+    font-size: 25px;
+}
+
+.vinculos {
+    display: inline-flex;
+    font-size: 40px;
+}
+.vinculos a{
+    text-decoration: none;
+    color:#F9FDF7;
+}
+.vinculos a:hover{
+background-color:#692DAC;
+}
+.vinculos2 {
+    display: inline-flex;
+    font-size: 40px;
+}
+.vinculos2 a{
+    text-decoration: none;
+    color:#F9FDF7;
+}
+.vinculos2 a:hover{
+background-color:#692DAC;
+}
+.link2 {
+    display: inline-flex;
+    font-size: 40px;
+}
+.link2 a{
+    text-decoration: none;
+    color:#F9FDF7;
+}
+.link2 a:hover{
+background-color:#692DAC;
+}

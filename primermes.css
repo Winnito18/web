@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{ 
+    background-image: url(/Images/Fondo.jpg);
+}
+.todo h1{
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 50px;
+}
+.todo p1 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p2 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p3 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p4 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p5 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p6 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p7 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.todo p8 {
+    color: #F9FDF7;
+    text-align: center;
+    font-size: 45px;
+}
+.vinculos {
+    display: inline-flex;
+    font-size: 40px;
+}
+.vinculos a{
+    text-decoration: none;
+    color:#F9FDF7;
+}
+.vinculos a:hover{
+background-color:#692DAC;
+}

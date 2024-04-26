@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{ 
+    background-image: url(/Images/Fondo.jpg);
+}
+.vinculos {
+    display: inline-flex;
+    font-size: 40px;
+}
+.vinculos a{
+    text-decoration: none;
+    color:#F9FDF7;
+}
+.vinculos a:hover{
+background-color:#692DAC;
+}
